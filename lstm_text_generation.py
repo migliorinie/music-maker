@@ -1,3 +1,5 @@
+#NdM: Questo serve per generare testo da uno scritto. Lo uso come esempio
+
 '''Example script to generate text from Nietzsche's writings.
 
 At least 20 epochs are required before the generated text
